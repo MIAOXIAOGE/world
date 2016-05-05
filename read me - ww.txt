@@ -1,0 +1,17 @@
+theme里添加了主题文件夹：
+Celesta
+coofocus
+inove
+shed
+tpgd_9_gr
+
+
+添加了文件夹：
+upgrade
+
+
+plugin里添加了Celesta主题需要的插件文件夹：
+options-framework
+
+
+plugin里有的插件不能用？
